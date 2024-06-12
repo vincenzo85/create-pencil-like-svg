@@ -1,7 +1,3 @@
-Sure, here is the guide rewritten in English with clear sections, and unnecessary content removed:
-
----
-
 # Guide to Creating an Interactive SVG Lines Project
 
 ## Introduction
